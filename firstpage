@@ -1,0 +1,81 @@
+<html>
+<head>
+    <title>Cookies Recipe</title>
+</head>
+  
+<style>
+    
+   
+  .wrapper, img{
+  width:450px;
+  height:320px;
+      margin-top:20px;
+}
+  
+  
+  .table {
+  background-color:lemonchiffon; 
+  font-size:15px
+
+  }
+  
+    .wrapper, p{
+  font-size:20px; 
+
+  }
+
+  
+</style>
+
+  
+ 
+  <div class ="container">
+    <h1> Cookies Recipe</h1>
+    </div>
+  
+  
+    <body>
+      <div id="wrapper">
+
+      <div class = "topnav" > 
+        <label  for = "Search" > Search for other recipes: </label>
+
+    <input type="text" placeholder="Search..">
+    
+     <br> 
+     <nav>
+       <a href="Nutrition.html">Nutrition</a>
+               <a href="Ingredients.html">Ingredients</a>
+
+               <a href="Instruction.html">Instructions</a>
+
+               <a href="Contact.html">Contact</a> 
+      
+     
+     </nav>
+     
+
+    
+     
+<img src = "cookies.jpg" alt = "cookies">
+ 
+<br>     
+      <table class= "table">  
+     <tr><td>Total time : </td>   
+       <td>30 mins</td>
+     </tr> 
+     
+     <tr><td>Sevings : </td>
+       <td>8 </td>
+     </tr>
+     </table>
+        
+        
+        
+     
+  <br>
+  <p> Learn how to make delicious cookies following the super<br> quick and easy recipe below!   </p> 
+          </div>
+            </div>
+            </body>
+</html>
